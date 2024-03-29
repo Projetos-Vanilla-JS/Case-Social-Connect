@@ -3,8 +3,7 @@
 ### Resumo do Projeto
 
 Este repositório servirá como 1º Checkpoint da disciplina de WebDev da FIAP.
-O projeto consiste em acessar a página da web da Social Connect e atualizar a página, corrigindo erros  
-e também adicionando novas funcionalidades.  
+O projeto consiste em acessar a página da web da Social Connect e atualizar a página, corrigindo erros e também adicionando novas funcionalidades.  
 O intuito do checkpoint é praticar os aprendizados de git e github estudados em sala.
 
 ### Integrantes do grupo
